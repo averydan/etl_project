@@ -14,7 +14,7 @@ We will work to load these data sets so that they are clean and ready for analys
 
 The Technical Report.docx explains the ETL process used.
 
-Teh coffee_cleaned_data.ipynb is the combined python code to pull in the CSV (Extract) files,  Transform them for exploration and final database dataframe loading, and then using SQLAlchemy to Load them to our production Postgres database.
+The coffee_cleaned_data.ipynb is the combined python code to pull in the CSV (Extract) files,  Transform them for exploration and final database dataframe loading, and then using SQLAlchemy to Load them to our production Postgres database.
 
 The Resources folder contain our raw data extracted from our source site.
 
